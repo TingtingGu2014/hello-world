@@ -16,6 +16,3 @@ steps:
     echo Hello MSCI.
     echo Wellcome to Azure pipeline.
   displayName: 'Run a multi-line script'
-
-- script: hello.sh
-  displayName: 'Run a one-line script'
