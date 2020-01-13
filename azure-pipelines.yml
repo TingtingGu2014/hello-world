@@ -17,7 +17,6 @@ steps:
     echo Wellcome to Azure pipeline.
   displayName: 'Run a multi-line script'
 
-steps:
 - script: echo Hello, world!
   displayName: 'ok'
 
